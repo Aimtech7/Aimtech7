@@ -1,4 +1,4 @@
-[![MasterHead](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreoluwa+Ruth+Ajayi;Full+Stack+Developer+%F0%9F%92%BB;Girls+in+STEM+Advocate+%F0%9F%8C%9F;Building+Amazing+Web+Apps+%F0%9F%9A%80)](https://github.com/oreoluwa212)
+[![MasterHead](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreoluwa+Ruth+Ajayi;Full+Stack+Developer+%F0%9F%92%BB;Girls+in+STEM+Advocate+%F0%9F%8C%9F;Building+Amazing+Web+Apps+%F0%9F%9A%80)][([https(https://github.com/))](https://github.com/Aimtech7)
 
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
