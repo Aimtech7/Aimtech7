@@ -138,7 +138,7 @@
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/oreoluwa212/taskMe-AI">
+  <a href="https://github.com/Aimtech7/taskMe-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=oreoluwa212&repo=taskMe-AI&theme=tokyonight" />
   </a>
   <a href="https://github.com/oreoluwa212/taskme-api">
