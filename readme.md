@@ -121,7 +121,7 @@
 
 ### Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oreoluwa212&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimtech7&theme=github-compact" alt="Contribution Graph" />
 </div>
 
 ---
