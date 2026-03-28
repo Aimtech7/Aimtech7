@@ -1,0 +1,12 @@
+{
+	"connectionLinkName": "aimtech7",
+	"connectionName": "Aimtech7",
+	"serviceName": "github",
+	"userAccess": true,
+	"isUserDefinedService": false,
+	"sharedBy": "919358617",
+	"scope": [
+		"user",
+		"repo"
+	]
+}
