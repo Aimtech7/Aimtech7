@@ -1,19 +1,24 @@
 <div align="center">
 
-# Hi, I'm Austine Makwaka 👋
-### Aimtech7 | Software Engineer • AI Builder • Cybersecurity Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=225&section=header&text=AUSTINE%20MAKWAKA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aimtech7%20%7C%20AI%20%7C%20Software%20Engineering%20%7C%20Cybersecurity&descSize=17&descAlignY=60" alt="Aimtech7 animated banner" />
 
-Building practical software for businesses and communities in Kenya.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+AI-powered+software;Developing+GIGA+CHEMIST+POS;Architecting+AIMNEX+Command+Center;Learning+Cybersecurity+%26+Machine+Learning;Turning+ideas+into+working+products" alt="Animated developer introduction" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aimtech7-181717?logo=github&logoColor=white)](https://github.com/Aimtech7)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?logo=gmail&logoColor=white)](mailto:austinemakwaka254@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-Kenya-006600)](https://github.com/Aimtech7)
+<br/>
+
+<a href="https://github.com/Aimtech7"><img src="https://komarev.com/ghpvc/?username=Aimtech7&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile visits" /></a>
+<a href="https://github.com/Aimtech7?tab=followers"><img src="https://img.shields.io/github/followers/Aimtech7?label=FOLLOWERS&style=for-the-badge&color=2563eb&logo=github" alt="GitHub followers" /></a>
+<a href="https://github.com/Aimtech7?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0f766e?style=for-the-badge&logo=github" alt="Explore projects" /></a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer coding animation" width="330" />
 
 </div>
 
 ---
 
-## About me
+## 🧑‍💻 About me
 
 I'm **Austine Makwaka**, also known as **Aimtech / Aimtech7**. I work on full-stack web applications, point-of-sale systems, AI-assisted workflows, business automation, and hands-on cybersecurity projects.
 
@@ -23,7 +28,7 @@ I'm **Austine Makwaka**, also known as **Aimtech / Aimtech7**. I work on full-st
 - **Learning:** AI engineering, Python, machine learning, digital forensics, DevSecOps, and secure software architecture.
 - **Collaboration:** Open to meaningful software projects, technical collaborations, and freelance work.
 
-## Current and featured projects
+## 🚀 Current and featured projects
 
 ### 💊 GIGA CHEMIST POS — Pharmacy point-of-sale platform
 **Status: Active development and deployment validation**
@@ -73,7 +78,7 @@ Websites and digital workflows for churches, schools, businesses, and other comm
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
 | Area | Technologies and tools |
 | --- | --- |
@@ -84,7 +89,7 @@ Websites and digital workflows for churches, schools, businesses, and other comm
 | Development | Git, GitHub, VS Code, Windows 11, Linux, Docker |
 | Security interests | Application security, cybersecurity labs, digital forensics, DevSecOps |
 
-## What I'm building toward
+## 🎯 What I'm building toward
 
 1. Deliver dependable, secure point-of-sale and business applications.
 2. Develop AIMNEX into a supervised, modular AI workspace.
@@ -92,11 +97,56 @@ Websites and digital workflows for churches, schools, businesses, and other comm
 4. Strengthen AI/ML engineering, penetration-testing fundamentals, and digital-forensics skills.
 5. Build useful software for Kenyan businesses and communities.
 
-## GitHub activity
+## 📈 Live GitHub analytics
 
-Explore my [repositories](https://github.com/Aimtech7?tab=repositories), [contributions](https://github.com/Aimtech7?tab=overview), and [recent activity](https://github.com/Aimtech7).
+<div align="center">
 
-> Some active commercial and experimental repositories are private. Public activity may not show all work in progress.
+<img src="https://github-readme-stats.vercel.app/api?username=Aimtech7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aimtech7 GitHub statistics" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimtech7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Aimtech7 top public languages" height="175" />
+
+<img src="https://streak-stats.demolab.com?user=Aimtech7&theme=tokyonight&hide_border=true" alt="Aimtech7 contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimtech7&theme=tokyo-night&hide_border=true&area=true" alt="Aimtech7 contribution activity graph" width="96%" />
+
+</div>
+
+### 🏆 GitHub trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aimtech7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Aimtech7 trophy showcase" width="96%" />
+
+</div>
+
+### ✨ Technology stickers
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,nextjs,tailwind,django,nodejs,postgres,supabase,mysql&perline=6" alt="Programming languages and frameworks" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,figma,html,css,postman,npm,vercel&perline=6" alt="Development and automation tools" />
+
+</div>
+
+### 🌌 More activity and project links
+
+<div align="center">
+
+[![GIGA CHEMIST](https://img.shields.io/badge/GIGA_CHEMIST-PHARMACY_POS-2563eb?style=for-the-badge&logo=postgresql&logoColor=white)](https://giga-chemist-pos.vercel.app)
+[![AIMNEX](https://img.shields.io/badge/AIMNEX-AI_COMMAND_CENTER-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aimtech7)
+[![THA BUYER](https://img.shields.io/badge/THA_BUYER-ECOMMERCE-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://thabuyer.vercel.app)
+[![AIMFLOW](https://img.shields.io/badge/AIMFLOW-MULTI_TENANT_POS-059669?style=for-the-badge&logo=react&logoColor=white)](https://aimflow-pos.lovable.app)
+
+<br/>
+
+[![All repos](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Aimtech7?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View-Contributions-334155?style=for-the-badge&logo=github)](https://github.com/Aimtech7?tab=overview)
+
+</div>
+
+> Analytics are generated by third-party services from GitHub-accessible activity. Private projects and contributions may not be fully represented; temporary external service failures can affect image loading.
 
 ## Contact
 
@@ -109,8 +159,8 @@ Explore my [repositories](https://github.com/Aimtech7?tab=repositories), [contri
 
 <div align="center">
 
-**Build thoughtfully. Test thoroughly. Keep improving.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1100&color=38BDF8&center=true&vCenter=true&width=750&lines=Build+thoughtfully.+Test+thoroughly.;Keep+learning.+Keep+shipping.;Thanks+for+visiting+my+profile!" alt="Animated closing message" />
 
-*Profile last refreshed: October 2026.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=125&section=footer" width="100%" alt="Footer wave banner" />
 
 </div>
