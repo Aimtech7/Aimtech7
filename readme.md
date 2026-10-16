@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=225&section=header&text=AUSTINE%20MAKWAKA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aimtech7%20%7C%20AI%20%7C%20Software%20Engineering%20%7C%20Cybersecurity&descSize=17&descAlignY=60" alt="Aimtech7 animated banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=225&section=header&text=AIMTECH7&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aimtech7%20%7C%20AI%20%7C%20Software%20Engineering%20%7C%20Cybersecurity&descSize=17&descAlignY=60" alt="Aimtech7 animated banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+AI-powered+software;Developing+GIGA+CHEMIST+POS;Architecting+AIMNEX+Command+Center;Learning+Cybersecurity+%26+Machine+Learning;Turning+ideas+into+working+products" alt="Animated developer introduction" />
 
@@ -12,15 +12,21 @@
 
 <br/><br/>
 
+[![Website](https://img.shields.io/badge/AIMNEX-WEBSITE-00ff99?style=for-the-badge&logo=googlechrome&logoColor=071510)](https://aimnex.co.ke)
+[![Cybersecurity](https://img.shields.io/badge/FOCUS-CYBERSECURITY-101010?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://github.com/Aimtech7)
+[![AI Engineering](https://img.shields.io/badge/BUILDING-AI_SYSTEMS-09090b?style=for-the-badge&logo=probot&logoColor=22d3ee)](https://github.com/Aimtech7)
+
+<br/><br/>
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer coding animation" width="330" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 About Aimtech7
 
-I'm **Austine Makwaka**, also known as **Aimtech / Aimtech7**. I work on full-stack web applications, point-of-sale systems, AI-assisted workflows, business automation, and hands-on cybersecurity projects.
+I'm **Aimtech7 (Aimtech)**. I work on full-stack web applications, point-of-sale systems, AI-assisted workflows, business automation, and hands-on cybersecurity projects.
 
 - **Current focus:** AIMNEX Command Center, GIGA CHEMIST POS, AI-assisted development, and practical business software.
 - **Experience:** Software development, cyber café IT services, and independent technology solutions through **AIMNEX Tech Ventures**.
@@ -78,6 +84,23 @@ Websites and digital workflows for churches, schools, businesses, and other comm
 
 ---
 
+## 🛡️ Cybersecurity • AI • Full-stack engineering
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2300&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%3E_+Initializing+Aimtech7+terminal...;%3E_+Security-first+software+engineering;%3E_+Analyze.+Build.+Harden.+Automate.;%3E_+Learning+digital+forensics+%26+ethical+hacking" alt="Cybersecurity terminal typing animation" />
+
+<br/>
+
+![Cybersecurity](https://img.shields.io/badge/APPSEC-SECURE_BY_DESIGN-111827?style=for-the-badge&logo=owasp&logoColor=white)
+![Security Labs](https://img.shields.io/badge/SECURITY-HANDS_ON_LABS-111827?style=for-the-badge&logo=kalilinux&logoColor=00ff99)
+![DevSecOps](https://img.shields.io/badge/DEVSECOPS-CI%2FCD_HARDENING-111827?style=for-the-badge&logo=githubactions&logoColor=00ff99)
+![Digital Forensics](https://img.shields.io/badge/FORENSICS-LEARNING-111827?style=for-the-badge&logo=linux&logoColor=00ff99)
+
+</div>
+
+Security interests: ethical hacking in authorized labs, secure application design, vulnerability assessment, digital forensics, network analysis, and automation reliability.
+
 ## 🛠️ Tech stack
 
 | Area | Technologies and tools |
@@ -106,27 +129,51 @@ Websites and digital workflows for churches, schools, businesses, and other comm
 
 <img src="https://streak-stats.demolab.com?user=Aimtech7&theme=tokyonight&hide_border=true" alt="Aimtech7 contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimtech7&theme=tokyo-night&hide_border=true&area=true" alt="Aimtech7 contribution activity graph" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimtech7&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="Aimtech7 contribution activity graph" width="96%" />
 
 </div>
+
+[View verified GitHub contributions](https://github.com/Aimtech7?tab=overview) · [Open activity graph directly](https://github-readme-activity-graph.vercel.app/graph?username=Aimtech7)
 
 ### 🏆 GitHub trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aimtech7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Aimtech7 trophy showcase" width="96%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aimtech7&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=5" alt="Aimtech7 trophy showcase" width="96%" />
 
 </div>
 
-### ✨ Technology stickers
+[Trophy generator](https://github-profile-trophy.vercel.app/?username=Aimtech7) · [Verified GitHub profile activity](https://github.com/Aimtech7?tab=overview)
+
+### ✨ Tech stack stickers — organized by category
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,nextjs,tailwind,django,nodejs,postgres,supabase,mysql&perline=6" alt="Programming languages and frameworks" />
+**Languages**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark" alt="Python TypeScript JavaScript HTML CSS" />
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,figma,html,css,postman,npm,vercel&perline=6" alt="Development and automation tools" />
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,figma&theme=dark" alt="React Vite Nextjs Tailwind Figma" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mysql,supabase&theme=dark" alt="Django Nodejs Express PostgreSQL MySQL Supabase" />
+
+**DevOps, Cloud & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman,vercel&perline=4&theme=dark" alt="Git GitHub GitHub Actions Docker Linux VS Code Postman Vercel" />
+
+**Security lab tools & interests**
+
+<br/>
+
+![OWASP](https://img.shields.io/badge/OWASP-AppSec-0b1220?logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-0b1220?logo=wireshark&logoColor=00e5ff)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Discovery-0b1220?logo=linux&logoColor=00ff99)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security_Labs-0b1220?logo=portswigger&logoColor=orange)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning_Labs-0b1220?logo=tryhackme&logoColor=red)
 
 </div>
 
@@ -148,10 +195,20 @@ Websites and digital workflows for churches, schools, businesses, and other comm
 
 > Analytics are generated by third-party services from GitHub-accessible activity. Private projects and contributions may not be fully represented; temporary external service failures can affect image loading.
 
+## 🌐 AIMNEX online
+
+<div align="center">
+
+[![Visit AIMNEX](https://img.shields.io/badge/WWW-AIMNEX.CO.KE-00d9a6?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aimnex.co.ke)
+[![Email](https://img.shields.io/badge/CONTACT-EMAIL-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimnexventures@gmail.com)
+
+</div>
+
 ## Contact
 
-- **Email:** [austinemakwaka254@gmail.com](mailto:austinemakwaka254@gmail.com)
+- **Email:** [aimnexventures@gmail.com](mailto:aimnexventures@gmail.com)
 - **GitHub:** [github.com/Aimtech7](https://github.com/Aimtech7)
+- **Website:** [aimnex.co.ke](https://aimnex.co.ke)
 - **Location:** Kenya
 - **Work:** AIMNEX Tech Ventures • Software development • AI • IT services
 
